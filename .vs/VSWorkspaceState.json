@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
     "\\assets\\img",
     "\\assets\\js",
     "\\src",
+    "\\src\\img",
     "\\src\\js",
     "\\src\\styles",
-    "\\_includes"
+    "\\_includes",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\yarn.lock",
+  "SelectedNode": "\\_includes\\footer.html",
   "PreviewInSolutionExplorer": false
 }
